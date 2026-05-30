@@ -22,8 +22,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bx Blue](https://bxblue.com.br/)
 * [Flama](https://flama.is/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
-* [PDVend](https://www.pdvend.com.br/)
-* [Ribon](https://www.ribon.io/)
 * [Startaê](https://startae.com/)
 * [Switch Dreams](https://switchdreams.com.br/)
 
@@ -36,12 +34,10 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Codeminer 42](http://www.codeminer42.com/)
 * [Cogni](https://cogni.group/)
 * [Devlabs](https://devlabs.digital/)
-* [EasyCrédito](https://easycredito.me/) - matriz
-* [Gado e Cia](http://www.gadoecia.com.br/)
-* [Secretaria de Educação e Esporte do Estado de Goiás](https://www.seduce.go.gov.br/)
+* [EasyCrédito](https://easycredito.com.br) - matriz
+* [Secretaria de Educação e Esporte do Estado de Goiás](https://goias.gov.br/educacao/)
 * [Siedos](http://siedos.com.br/)
 * [Tribunal de Justiça](http://www.tjgo.jus.br/)
-* [UmbrellaTec](http://www.umbrellatec.com.br/)
 * [Voz Digital](http://vozdigital.com.br/)
 
 ### Mato Grosso (MT)
@@ -68,7 +64,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Ceará (CE)
 
 * [Agenda Edu](https://agendaedu.com/)
-* [Brasil System](https://www.brasilsystems.com.br/)
 * [CompreUp](https://compreup.com.br/)
 * [Coreplan](https://www.coreplan.com.br/)
 * [Farias Brito - FB Online](https://www.fbonline.com.br/)
@@ -137,7 +132,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Tocantins (TO)
 
-* [Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)
+* [Defensoria Pública do Estado do Tocantins](https://www.defensoria.to.def.br/)
 
 ---
 
@@ -164,18 +159,15 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Rio de Janeiro (RJ)
 
-* [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
 * [BeijaFlore](https://www.beijaflore.com/be/)
 * [Blu](https://www.blu.com.br)
-* [ChefsClub](https://www.chefsclub.com.br/)
 * [Dtm](http://www.dtmtec.com.br/)
 * [Estante Virtual](https://www.estantevirtual.com.br/)
 * [FullLab](https://www.fulllab.com.br/)
 * [Globo.com](https://www.globo.com/) - matriz
 * [Indeva](https://indeva.com.br/)
 * [Lemoney](https://www.lemoney.com/)
-* [M4U](https://www.m4u.com.br/)
 * [Mainô](https://www.maino.com.br/)
 * [Melhores Diaristas](https://www.melhoresdiaristas.com.br/)
 * [Nexaas](http://nexaas.com/)
@@ -186,8 +178,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [SkyHub](https://skyhub.com.br/) - matriz
 * [Unimed FERJ](https://www.unimedrj.coop.br/)
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
-* [Wpensar](https://wpensar.com.br/)
-* [XL Solutions](http://www.xlsol.com/)
 
 ### São José dos Campos
 
@@ -199,10 +189,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [4MDG](https://4mdg.com.br/)
 * [Adaflow](https://www.adaflow.com/)
 * [Agrosmart](https://agrosmart.com.br/) - matriz
-* [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
-* [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AppGas](https://appgas.com/)
-* [Bicos](https://www.bicos.com.br/)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
 * [Bionexo](https://bionexo.com)
 * [Bluefish](http://www.bluefish.com.br)
@@ -215,14 +202,11 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Clicksign](https://www.clicksign.com/)
 * [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
-* [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
 * [Creditas](https://creditas.com.br)
-* [D3 - Digital Product Studio](https://d3.do/)
 * [Distrito](http://www.distrito.me)
 * [Dog Hero](http://doghero.com.br)
-* [Dr. Sintomas](https://drsintomas.com.br/)
-* [EasyCrédito](https://easycredito.me/)
+* [EasyCrédito](https://easycredito.com.br)
 * [Eicon](https://www.eicon.com.br/)
 * [Enjoei](https://www.enjoei.com.br/)
 * [Fretadão](https://fretadao.com.br/)
@@ -231,7 +215,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Grafeno Digital](https://grafeno.digital/)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
-* [Inovamind](https://inovamind.com.br)
 * [Kazap](https://kazap.com.br)
 * [Kikker](https://kikker.com.br)
 * [Knowbe4](https://knowbe4.com)
@@ -302,24 +285,19 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 * [Bonitour](https://www.bonitour.com.br)
 * [CashWay](https://www.cashway.io)
-* [Celtec](http://celtec.com.br)
 * [Fácil123](https://facil123.com.br)
 * [GeekHunter](https://www.geekhunter.com.br)
 * [Go Good](http://www.gogood.com.br)
 * [FACISC](http://facisc.org.br)
-* [Hexagon Agriculture](https://hexagonagriculture.com)
-* [iTER](http://iter.net.br)
 * [JungleDevs](https://jungledevs.com)
 * [KM Online](https://www.kmonline.com.br)
 * [Magrathea Labs](https://magrathealabs.com/)
 * [MineradorX](https://mineradorx.com)
-* [Neo Labor](https://neo-labor.com)
 * [OmniHunter](http://omnihunter.net/)
 * [Organizze](https://www.organizze.com.br/)
 * [Portabilis](http://portabilis.com.br)
 * [Prevision](https://www.prevision.com.br/)
 * [RD Station](https://rdstation.com)
-* [Ruptiva](https://www.ruptiva.com/)
 
 ## Sem escritório físico - Remoto
 
@@ -340,7 +318,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [RunRun.it](https://runrun.it/pt-BR)
 * [Segarante](https://www.segarante.com.br/)
 * [Segdev](https://www.segdev.com.br/)
-* [SourceLevel](https://sourcelevel.io)
 * [Taller](https://taller.net.br)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
 * [Atende Simples](https://www.atendesimples.com/)
